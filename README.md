@@ -60,3 +60,12 @@ Karmaşık arka planlar akıllı silgi ile şeffaflaştırılır (.png formatın
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
    git clone [https://github.com/KULLANICI_ADINIZ/KartAtolye.git](https://github.com/KULLANICI_ADINIZ/KartAtolye.git)
+
+2. Projeyi Visual Studio ile açın.
+
+3. Proje referanslarında Microsoft Windows Image Acquisition Library v2.0 (WIA) bileşeninin eklendiğinden emin olun. (Eksikse: Add Reference -> COM -> Microsoft Windows Image Acquisition Library v2.0 adımlarını izleyin).
+
+4. Çözümü derleyin (Build) ve çalıştırın.
+
+👨‍💻 Geliştirici
+Mustafa Aslan - Bilgisayar Mühendisi
