@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📸 Kart Atölye
+# Kart Atölye
 
 **Kurumsal Kimlik ve Evrak İşleme Sistemi**
 
@@ -14,18 +14,18 @@ Kart Atölye, kamu kurumları ve büyük ölçekli işletmelerin personel kimlik
 
 ---
 
-## 🚀 Temel Özellikler
+##  Temel Özellikler
 
-* **🖨️ Donanım Entegrasyonu (WIA):** Yerel ağdaki veya USB ile bağlı tarayıcıları otomatik tanır ve doğrudan uygulama içine yüksek çözünürlüklü tarama yapar.
-* **🎯 Biyometrik Odaklama:** 50x60 mm (1:1.2) standart biyometrik vesikalık oranını baz alarak görüntüleri otomatik veya manuel olarak kırpar.
-* **🧹 Akıllı Silgi & Onarma:** Arka plan temizleme işlemleri için optimize edilmiş fırça aracı. Orijinal görüntüyü referans alan "Onarma" (History Brush) aracı ile hatalı silinen yerler geri getirilebilir.
-* **🧠 Gelişmiş Bellek Yönetimi:** İşlemlerde RAM şişmesini önlemek için piksellere `LockBits` ile doğrudan müdahale edilir. Sınırsız "Geri (Undo)" ve "İleri (Redo)" özellikleri bellek dostu bir mimariyle (`DocState`) çalışır.
-* **📂 Akıllı Kurumsal Arşivleme:** İşlenen evrakları kullanıcının seçtiği ana dizine `[Kadro Tipi] / [Ay Yıl] / [Baş Harf] / İsim_SicilNo.png` hiyerarşisiyle otomatik sınıflandırarak kaydeder.
-* **🌓 Arayüz Seçenekleri:** Göz yorgunluğunu azaltmak için Karanlık (Dark) ve Aydınlık (Light) tema desteği. Gerçek zamanlı arama/filtreleme sunan evrak kuyruğu.
+* **Donanım Entegrasyonu (WIA):** Yerel ağdaki veya USB ile bağlı tarayıcıları otomatik tanır ve doğrudan uygulama içine yüksek çözünürlüklü tarama yapar.
+* **Biyometrik Odaklama:** 50x60 mm (1:1.2) standart biyometrik vesikalık oranını baz alarak görüntüleri otomatik veya manuel olarak kırpar.
+* **Akıllı Silgi & Onarma:** Arka plan temizleme işlemleri için optimize edilmiş fırça aracı. Orijinal görüntüyü referans alan "Onarma" (History Brush) aracı ile hatalı silinen yerler geri getirilebilir.
+* **Gelişmiş Bellek Yönetimi:** İşlemlerde RAM şişmesini önlemek için piksellere `LockBits` ile doğrudan müdahale edilir. Sınırsız "Geri (Undo)" ve "İleri (Redo)" özellikleri bellek dostu bir mimariyle (`DocState`) çalışır.
+* **Akıllı Kurumsal Arşivleme:** İşlenen evrakları kullanıcının seçtiği ana dizine `[Kadro Tipi] / [Ay Yıl] / [Baş Harf] / İsim_SicilNo.png` hiyerarşisiyle otomatik sınıflandırarak kaydeder.
+* **Arayüz Seçenekleri:** Göz yorgunluğunu azaltmak için Karanlık (Dark) ve Aydınlık (Light) tema desteği. Gerçek zamanlı arama/filtreleme sunan evrak kuyruğu.
 
 ---
 
-## 🖼️ Ekran Görüntüleri ve Kullanım
+##  Ekran Görüntüleri ve Kullanım
 
 ### 1. Tarama ve İşlem Bekleyen Evraklar
 Tarayıcıdan veya bilgisayardan alınan görüntüler sol panele listelenir. Dinamik arama kutusu ile yüzlerce evrak arasında isim veya sicil numarasına göre anında filtreleme yapılabilir.
@@ -44,7 +44,7 @@ Karmaşık arka planlar akıllı silgi ile şeffaflaştırılır (.png formatın
 
 ---
 
-## 🛠️ Teknik Altyapı ve Mimari
+## Teknik Altyapı ve Mimari
 
 | Teknoloji | Açıklama |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Karmaşık arka planlar akıllı silgi ile şeffaflaştırılır (.png formatın
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
@@ -67,5 +67,5 @@ Karmaşık arka planlar akıllı silgi ile şeffaflaştırılır (.png formatın
 
 4. Çözümü derleyin (Build) ve çalıştırın.
 
-👨‍💻 Geliştirici
+Geliştirici
 Mustafa Aslan - Bilgisayar Mühendisi
